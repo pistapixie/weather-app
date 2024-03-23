@@ -17,4 +17,11 @@ body{
   padding: 50px;
   border-radius: 15px;
   background-color: azure;
+  margin-bottom: 20px;
+}
+
+
+.button-container{
+  display: flex;
+  gap: 4px;
 }
